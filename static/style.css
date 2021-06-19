@@ -2,3 +2,9 @@
 .navbar-text {
     color: #f8f9fa;
 }
+
+html, body {
+   height: 100%;
+}
+
+#mapid { height: 90%;}
